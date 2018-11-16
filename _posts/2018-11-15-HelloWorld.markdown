@@ -6,7 +6,4 @@ categories: javascript program
 ---
 This post ~~will have~~ **has** a simple "Hello world!" popup.
 
-Here's what the liquid magic looks like:
-
-{{ relative_url }}/assets/js/HelloWorld.js
-<script src="{{ relative_url }}/assets/js/HelloWorld.js"></script>
+<script src="{{ "/assets/js/HelloWorld.js" | relative_url }}"></script>
