@@ -17,6 +17,7 @@ title: Early JS Projects
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my website where I'm starting simple JavaScript projects.
+  Thanks for visiting!
 baseurl: "/JSHelloWorld" # the subpath of your site, e.g. /blog
 url: "https://martinw89.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
